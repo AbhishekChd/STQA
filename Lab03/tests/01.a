@@ -1,0 +1,20 @@
+a		b		c		Output
+50		50		0		Real Roots
+50		50		1		Real Roots
+50		50		2		Real Roots
+50		50		50		Imaginary Roots
+50		50		99		Imaginary Roots
+50		50		100		Imaginary Roots
+50		50		101		Imaginary Roots
+0		50		50		Not a quadratic equation
+1		50		50		Real Roots
+2		50		50		Real Roots
+99		50		50		Imaginary Roots
+100		50		50		Imaginary Roots
+101		50		50		Imaginary Roots
+50		0		50		Imaginary Roots
+50		1		50		Imaginary Roots
+50		2		50		Imaginary Roots
+50		99		50		Imaginary Roots
+50		100		50		Roots are equal
+50		101		50		Real Roots

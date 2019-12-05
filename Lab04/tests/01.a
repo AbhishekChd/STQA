@@ -1,0 +1,20 @@
+a		b		c		Output
+50		50		0		Not a triangle
+50		50		1		Isosceles
+50		50		2		Isosceles
+50		50		50		Equilateral
+50		50		99		Isosceles
+50		50		100		Not a triangle
+50		50		101		Not a triangle
+0		50		50		Not a triangle
+1		50		50		Isosceles
+2		50		50		Isosceles
+99		50		50		Isosceles
+100		50		50		Not a triangle
+101		50		50		Not a triangle
+50		0		50		Not a triangle
+50		1		50		Isosceles
+50		2		50		Isosceles
+50		99		50		Isosceles
+50		100		50		Not a triangle
+50		101		50		Not a triangle
